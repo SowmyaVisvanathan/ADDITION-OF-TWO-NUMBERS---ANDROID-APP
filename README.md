@@ -21,7 +21,6 @@ Step 6: Save and run the application.
 
 ## PROGRAM:
 ```
-Program to create simple calculator using Android Studio.
 Developed by: Sowmya V
 RegisterNumber:  212222110045
 ```
@@ -100,5 +99,7 @@ public class MainActivity extends AppCompatActivity {
 
 ```
 ## Output:
+![image](https://github.com/SowmyaVisvanathan/ADDITION-OF-TWO-NUMBERS---ANDROID-APP/assets/119475775/e39312d5-6648-44d5-a2fb-d14005c50b3d)
 
 ## Result:
+Thus the program to develop a simple app to add two numbers is developed successfully
